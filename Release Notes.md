@@ -9,3 +9,4 @@ Diagnal Test App 1.0 (15 April 2024) 
 
 #Know Bugs
 1. The UI of the top header shadow while scrolled is not according to the given mock image
+2. When come back from search screen list state not retain
